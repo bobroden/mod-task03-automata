@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "Automat.h"
+#include "Automata.h"
 
 TEST(task, test1)
 {
