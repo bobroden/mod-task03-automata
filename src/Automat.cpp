@@ -1,4 +1,4 @@
-#include "Automat.h"
+#include "Automata.h"
 #include <string>
 
 const string* Automata::etMenu()
